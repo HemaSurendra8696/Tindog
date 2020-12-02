@@ -147,7 +147,7 @@ color:#333333;
 }
 @media (max-width:1028px){
 	.title-image{
-		position: static;
-		transform:rotate(0);
-	}
+		position: absolute;
+		transform:rotate(20);
+		margin-left:90px;
 }
